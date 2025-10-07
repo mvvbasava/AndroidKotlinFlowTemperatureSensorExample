@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidKotlinFlowTemperatureSensorExample</string>
+    <string name="optionOne">Option 1 - Basic collection</string>
+    <string name="optionTwo">Option 2 - With operators</string>
+    <string name="optionThree">Option 3 - Combining flows</string>
+    <string name="optionFour">Option 4 - StateFlow (Hot Flow)</string>
+    <string name="temp_c_humidity">Temp: %1$s°C, Humidity: %2$s%</string>
+    <string name="send_request">Send Request</string>
+</resources>
